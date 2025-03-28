@@ -1,6 +1,7 @@
 # Python simple tutorials for beginners
 
 Hello everyone, 
+
 This repository contains some FREE TUTORIALS of basic Python programming for beginners. You can run them in your Visual Studio Code or use Google Colabs.  Please feel free to visit and give many stars if you like my content!
 
 * Concept of Variable - (Language: Indonesian) [Click here](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)
