@@ -10,4 +10,4 @@ This repository contains some FREE TUTORIALS of basic Python programming for beg
 * Looping concept (FOR, WHILE, BREAK) - (Language: Indonesian) [Click here](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_bahasa.py)
 * Flow control concept for programming - (English) [Click here](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Flow_control_code_implementation.ipynb)
 * Request library (Get, Post, Put, Delete) - (English) [Click here](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Request_library.ipynb)
-* Creating a simple Python-based program by implementing CRUD (Create, Read, Update, Delete) operations [Click here](https://github.com/harishmuh/e-feedmart)
+* Creating a Python-based app by implementing CRUD (Create, Read, Update, Delete) operations [Click here](https://github.com/harishmuh/e-feedmart)
