@@ -1,6 +1,3 @@
-# Python simple tutorials for beginners
-
-
 # 🚀 Python Tutorials for Beginners  
 
 Hello everyone! 👋  
@@ -44,6 +41,16 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 🔄 **Looping Concept**  
   - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_bahasa.py)  
   - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_engsub.py)  
+
+---
+
+### 🔣 Functions & Lambda Functions  
+- 🔧 **Functions in Python**  
+  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_bahasa.py)  
+  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_engsub.py)  
+- ⚡ **Lambda Functions**  
+  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
+  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)  
 
 ---
 
