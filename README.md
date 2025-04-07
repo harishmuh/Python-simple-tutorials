@@ -23,41 +23,41 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 
 ### 🏗️ Basic Python Concepts  
 - 📜 **Concept of Variables**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_engsub.py)  
-- 🏋️‍♂️ **Exercise: Variables** → [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_practice_bahasa.ipynb)  
+  - Konsep variable (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)  
+  - Variable (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_engsub.py)  
+- 🏋️‍♂️ **Exercise: Variables** (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_practice_bahasa.ipynb)  
 
 ---
 
 ### 🔀 Conditional Statements (IF, ELIF, ELSE)  
 - 📜 **Concept of Conditional Statements**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statements_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statement_engsub.py)  
-- 🏋️‍♂️ **Exercise: Conditional Statements** → [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional_statement_practice_bahasa.ipynb)  
+  - Konsep IF in Python (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statements_bahasa.py)  
+  - Conditional statement in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statement_engsub.py)  
+- 🏋️‍♂️ **Exercise: Conditional Statements** (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional_statement_practice_bahasa.ipynb)  
 
 ---
 
 ### 🔄 Looping (FOR, WHILE, BREAK)  
 - 🔄 **Looping Concept**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_engsub.py)  
+  - Konsep loop (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_bahasa.py)  
+  - Looping in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_engsub.py)  
 
 ---
 
 ### 🔣 Functions & Lambda Functions  
 - 🔧 **Functions in Python**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_engsub.py)  
+  - Konsep fungsi (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_bahasa.py)  
+  - Functions in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_engsub.py)  
 - ⚡ **Lambda Functions**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)  
+  - Fungsi Lambda (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
+  - Lambda Functions (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)  
 
 ---
 
 ### 📦 Collection Data Types  
 - 📚 **Collection Data Types**  
-  - 🇮🇩 [Bahasa Indonesia](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
-  - 🇬🇧 [English](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
+  - Konsep List, Tuple, Dictionary, dan Set (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
+  - Concept of List, Tuple, Dictionary, and Set concepts  → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
 
 ---
 
