@@ -171,8 +171,7 @@
 # print('Menggunakan insert:', mobil)   # ['lamborghini', 'nissan'] diselipkan pada indeks ke-0 sebagai 1 list utuh   
 # print(len(mobil))
 
-
-# Latihan harish
+# Practice
 # ================
 # num = []
 # for i in range(1, 10, 2):
