@@ -58,6 +58,8 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 📚 **Collection Data Types**  
   - Konsep List, Tuple, Dictionary, dan Set (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
   - Concept of List, Tuple, Dictionary, and Set concepts  → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
+- 🏋️‍♂️ **Exercise: Dictionary** (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Dictionary_exercise_eng_sub.ipynb)  
+
 
 ---
 
