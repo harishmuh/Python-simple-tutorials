@@ -12,9 +12,9 @@
 # for i in range(5): # Print 5 kali
 #     print('Saya sedang belajar data science')
 
-# ======================
-# While loop
-# ======================
+# ================================================
+# While loop - Mengulang selama kondisi masih benar
+# ================================================
 # Selama kondisi masih terpenuhi
 # maka looping akan terus dijalankan
 # Looping akan berhenti ketika kondisinya sudah bernilai false
@@ -25,6 +25,12 @@
 # x = 1
 # while x <=5: # Akan terus berjalan karena kondisinya selalu True, x = 1 # HARUS DIHINDARI
 #     print('Saya sedang belajar data sains') # Cara berhenti: Ctrl + C
+
+# Contoh while
+nyawa = 3
+while nyawa > 0:
+    print("Main game...")
+    nyawa -= 1  # kurangi 1 nyawa setiap kali
 
 # Contoh while 1
 # x = 1
@@ -79,6 +85,17 @@
 # ==================
 # Loop akan dijalankan selama item atau elemen 
 # di dalam collection data types atau iterables masih ada
+# Mengulang sejumlah yang sudah pasti
+# Sederhananya: lakukan ini untuk setiap item dalam daftar
+
+teman = ["Andi", "Budi", "Citra"]
+for nama in teman:
+    print("Halo", nama)
+
+# Output:
+# Halo Andi
+# Halo Budi
+# Halo Citra
 
 # =====================
 # Looping dalam list
@@ -281,6 +298,19 @@ myDict = {
 # Break--> keluar dari sistem looping # stop
 # continue --> lanjut 
 
+# =======================================================
+# Break - berhenti total dari loop meskipun belum selesai
+# =======================================================
+# Sederhananya: Jika menemukan suatu kondisi yang dicari, berhenti dari loop sekarang juga
+
+# # Break
+# # Kamu sedang mencari teman bernama "Juliana". Saat ketemu, berhenti cari meskipun ada nama lain
+# teman = ["Dewi", "Diandra", "Lutfi", "Michael", "Juliana", "Fatimah", "Andi"]
+# for nama in teman:
+#     if nama == "Juliana":
+#         print("Ketemu Juliana!")
+#         break
+#     print("Bukan Juliana:", nama)
 
 # Break
 # kalimat = 'Saya senang bermain bola'
@@ -299,12 +329,35 @@ list_batu = ['kuning', 'hijau', 'ungu', 'merah', 'biru']
 #         break # Stop looping
 #     print(f'melangkah diatas batu {batu}')
 
+# =========================================================
+# Continue - Lewati satu langkah, lanjut ke yang berikutnya
+# =========================================================
+# Sederhananya, jika menemukan kondisi tertentu, lewati bagian ini dan langsung ke item berikutnya
+
 # Continue
 # for batu in list_batu:
 #     if batu == 'hijau':
 #         print('Batu hijau, lewati saja')
 #         continue # skip batu hijau
 #     print(f'melangkah diatas batu {batu}')
+
+# Sapa semua teman kecuali "Lufti"
+# teman = ["Dewi", "Diandra", "Lutfi", "Michael", "Juliana", "Fatimah", "Andi"]
+# for nama in teman:
+#     if nama == "Lutfi":
+#         continue # Lewati
+#     print("Halo", nama)
+
+# ===============================
+# Pass - Tidak melakukan apa-apa
+# ===============================
+# Digunakan saat belum tau ingin menulis apa, tapi secara sintask harus diisi
+
+# Pass
+# for angka in range(1, 6):
+#     if angka == 3:
+#         pass  # tidak melakukan apa-apa
+#     print("Angka:", angka)
 
 # Pass
 # for batu in list_batu:
@@ -338,9 +391,16 @@ Gunakan perulangan while True dan pernyataan break.
 # Nested loop
 # ================
 
-# Nested loop adalah looping di dalam looping
-# Inner looping akan diselesaikan dulu
-# Baru kemudian outerlooping
+# Nested loop adalah loop di dalam loop
+# Cara berjalan:
+# Loop luar akan dijalankan 
+# Lalu loop dalam akan jalan sepenuhnya (diselesaikan) untuk setiap langkah loop luar
+
+# kelas = ["Data science", "Web Development", "Digital Marketing"] # outer loop
+# for nama_kelas in kelas:
+#     print("Masuk ke kelas", nama_kelas)
+#     for siswa in range(1, 3):  # siswa 1 dan 2 # Inner loop
+#         print(f"  Siswa ke-{siswa} di kelas {nama_kelas}")
 
 # for suap in range(1,4):
 #     print(f'ini adalah suapan ke - {suap}')
