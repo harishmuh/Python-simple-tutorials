@@ -27,8 +27,9 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 📜 **Concept of Variables**  
   - Konsep variable (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)  
   - Variable (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_engsub.py)  
-- 🏋️‍♂️ **Exercise: Variables** (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_practice_bahasa.ipynb)  
-
+- 🏋️‍♂️ **Exercise**
+  - Variables (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_practice_bahasa.ipynb)  
+  - Variables (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Variable_exercise.ipynb) 
 ---
 
 ### 🔀 Conditional Statements (IF, ELIF, ELSE)  
