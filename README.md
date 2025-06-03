@@ -27,7 +27,7 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 📜 **Concept of Variables**  
   - Konsep variable (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)  
   - Variable (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_engsub.py)  
-- 🏋️‍♂️ **Exercise**
+- 🏋️‍♂️ **Exercise: variables**
   - Variables (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_practice_bahasa.ipynb)  
   - Variables (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Variable_exercise.ipynb) 
 ---
@@ -36,8 +36,9 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 📜 **Concept of Conditional Statements**  
   - Konsep IF in Python (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statements_bahasa.py)  
   - Conditional statement in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional%20statement_engsub.py)  
-- 🏋️‍♂️ **Exercise: Conditional Statements** (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional_statement_practice_bahasa.ipynb)  
-
+- 🏋️‍♂️ **Exercise: Conditional Statements**
+  - IF Elif ELSE Conditional statements (Bahasa Indonesia) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Conditional_statement_practice_bahasa.ipynb)  
+  - IF ELIF ELSE Conditional statements (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/IF%20ELIF%20ELSE%20conditional%20statement_exercise.ipynb)
 ---
 
 ### 🔄 Looping (FOR, WHILE, BREAK)  
