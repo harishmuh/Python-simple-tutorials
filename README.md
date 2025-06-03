@@ -44,7 +44,7 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
   - Konsep loop (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_bahasa.py)  
   - Looping in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/looping_engsub.py)  
 - 🏋️‍♂️ **Exercise: Looping**
-  - Looping - easy (English) → [Open notebook] (https://github.com/harishmuh/Python-simple-tutorials/blob/main/Looping_exercise_easy.ipynb)
+  - Looping - easy (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Looping_exercise_easy.ipynb)
   - Looping - hard (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Looping_exercise.ipynb)
   
 ---
