@@ -7,7 +7,7 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 ## 📌 What You'll Learn  
 ✔️ Variables & Data Types  
 ✔️ Conditional Statements (IF, ELSE, ELIF)  
-✔️ Loops (FOR, WHILE, BREAK)  
+✔️ Loops (FOR, WHILE, BREAK, CONTINUE)  
 ✔️ Collection Data Types  
 ✔️ Flow Control in Programming  
 ✔️ Request Library (GET, POST, PUT, DELETE)  
