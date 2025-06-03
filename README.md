@@ -23,7 +23,7 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 
 ### 🏗️ Basic Python Concepts 
 
-- 📜 **Introduction to Python fundamentals** → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Intro_to_Python_fundamental.ipynb)
+- 📜 **Introduction to Python fundamentals** → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Intro_to_Python_fundamental.ipynb)
 - 📜 **Concept of Variables**  
   - Konsep variable (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_bahasa.py)  
   - Variable (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/variable_engsub.py)  
