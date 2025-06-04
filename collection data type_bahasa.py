@@ -183,7 +183,51 @@
 #     list_angka.append(10**i)
 # print(list_angka)
 
+# ===================
+# List comperhension
+# ==================
+# Without list comperhension
+# names = ["andi", "budi", "ceci", "dedi", "eric"]
+# namesNewList = []
+# for name in names:
+#     if "c" in name:
+#       namesNewList.append(name)
 
+# print(namesNewList) # ['ceci', 'eric']
+
+# Using list comperhension
+# names = ["andi", "budi", "ceci", "dedi", "eric"]
+# namesNewList = [name for name in names if "c" in name]
+# print(namesNewlist) # ['ceci', 'eric']
+
+# Syntax
+# newlist = [expression for item in iterable if condition == True]
+# Only accept items that are not "dedi":
+# newlist = [name for name in names if name != "dedi"]
+
+# With no if statement:
+# newlist = [name for name in names]
+
+# Iterable
+# The iterable can be any iterable object, like a list, tuple, set etc.
+
+# You can use the range() function to create an iterable
+# newlist = [num for num in range(5)]
+
+# You can accept only add number
+# newlist = [num for num in range(5) if num % 2 != 0]
+
+# Setting Expression
+# Set the values in the new list to upper case:
+# newlist = [name.upper() for name in names]
+
+# Set all values in the new list to 'feri'
+# newlist = ['feri' for name in names]
+
+# The expression can also contain conditions, not like a filter, but as a way to manipulate the outcome:
+# Example
+# Return "feri" instead of "dedi":
+# newlist = [name if name != "dedi" else "feri" for name in names]
 # ==================================
 # Tuple
 
