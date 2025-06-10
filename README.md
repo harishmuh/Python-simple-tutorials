@@ -56,7 +56,8 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
   - Konsep List, Tuple, Dictionary, dan Set (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
   - Concept of List, Tuple, Dictionary, and Set  → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
 - 🏋️‍♂️ **Exercise & supplement: Collection data type**
-  - List, tuple, dictionary, set concepts and exercises (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Collection_data_type_easy.ipynb)
+  - List, tuple, dictionary, set concepts and exercises (Easy) (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Collection_data_type_easy.ipynb)
+  - Collection data type exercises (hard) (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Collection%20data%20type%20-%20exercise.ipynb)
   - List and Tuple supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/List_and_Tuple.ipynb)
   - Dictionary supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Dictionary_exercise_eng_sub.ipynb)  
   - Set supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type%20-%20set%20exercise.ipynb)
