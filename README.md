@@ -48,6 +48,17 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - 🏋️‍♂️ **Exercise: Looping**
   - Looping - easy (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Looping_exercise_easy.ipynb)
   - Looping - hard (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Looping_exercise.ipynb)
+
+---
+
+### 📦 Collection Data Types  
+- 📚 **Collection Data Types**  
+  - Konsep List, Tuple, Dictionary, dan Set (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
+  - Concept of List, Tuple, Dictionary, and Set concepts  → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
+- 🏋️‍♂️ **Exercise & supplement: Collection data type**
+  - List and Tuple supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/List_and_Tuple.ipynb)
+  - Dictionary supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Dictionary_exercise_eng_sub.ipynb)  
+  - Set supplement (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type%20-%20set%20exercise.ipynb)
   
 ---
 
@@ -58,16 +69,6 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 - ⚡ **Lambda Functions**  
   - Fungsi Lambda (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
   - Lambda Functions (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)  
-
----
-
-### 📦 Collection Data Types  
-- 📚 **Collection Data Types**  
-  - Konsep List, Tuple, Dictionary, dan Set (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type_bahasa.py)  
-  - Concept of List, Tuple, Dictionary, and Set concepts  → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20types_engsub.py)  
-- 🏋️‍♂️ **Exercise Collection data type**
-  - Dictionary (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Dictionary_exercise_eng_sub.ipynb)  
-  - Set (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/collection%20data%20type%20-%20set%20exercise.ipynb)
 
 ---
 
