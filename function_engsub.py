@@ -72,25 +72,25 @@ def oscar(name, movie, year):
     '''
     print(f'The Best Actor winner in {year} was {name} for the movie {movie}')
 
-oscar('Leonardo DiCaprio', 'The Revenant', 2016)
-oscar('Cillian Murphy', 'Oppenheimer', 2023)
+# oscar('Leonardo DiCaprio', 'The Revenant', 2016)
+# oscar('Cillian Murphy', 'Oppenheimer', 2023)
 
 # ============================
 # Function with input (parameters) and with output (return)
 
-def add(number1, number2):  # With input and output
-    result = number1 + number2
-    return result  # Using return to produce a value
-                   # Allows mathematical operations
+# def add(number1, number2):  # With input and output
+#     result = number1 + number2
+#     return result  # Using return to produce a value
+#                    # Allows mathematical operations
 
-def add_print(number1, number2):
-    result = number1 + number2
-    print(result)
+# def add_print(number1, number2):
+#     result = number1 + number2
+#     print(result)
 
-print(add(3, 5))   # Output is an integer: 8
-print(add_print(3, 5))  # Output is a print statement: 8
+# print(add(3, 5))   # Output is an integer: 8
+# print(add_print(3, 5))  # Output is a print statement: 8
 
-print(add(3, 5) - 3)  
+# print(add(3, 5) - 3)  
 # print(add_print(3, 5) - 3)  # Error: NoneType cannot be used in arithmetic operations
 
 # Task: Create a function with parameters number1 and number2 that returns four values:
@@ -110,24 +110,150 @@ def math_operations(number1, number2):
 sum_result, difference, product, division = math_operations(10, 2)
 print('The division result is', division)
 
-# =========
-# Default parameters
+# ==============================================================
+# Default Parameters
+# If we don’t provide arguments when the function is called,
+# The function already has default values for those parameters.
 
-# If no argument is provided when calling the function,
-# the function uses a default value for that parameter.
+# def greetings(name='Secret', age=0, location='Indonesia'):
+#     print(f'Hello, my name is {name}, I am {age} years old, and I live in {location}')
 
-def greetings(name='Unknown', age=0, location='Indonesia'):
-    print(f'Hello, my name is {name}, I am {age} years old, and I live in {location}')
+# greetings('Mazaya', 22, 'Bandung')     # All arguments provided
+# greetings('Ridwan', 24)                # Only name and age provided
+# greetings('Banu')                      # Only name provided
+# greetings(age=25)                      # Only age provided (by keyword)
 
-greetings('Mazaya', 22, 'Bandung')
-greetings('Ridwan', 24)
-greetings('Banu')
-greetings(age=25)
+# def greetings(name='Secret', age=0, location='Indonesia'):
+#     if name == 'Secret':
+#         print('I do not want to reveal my name')
+#     elif age == 0:
+#         print(f'My name is {name}. I do not want to disclose my age')
+#     elif location == 'Indonesia':
+#         print(f'My name is {name}. My location is unknown')
+#     else:
+#         print(f'Hello, my name is {name}, I am {age} years old, and I’m from {location}')
 
-def greetings(name='Unknown', age=0, location='Indonesia'):
-    if name == 'Unknown':
-        print('I do not wish to reveal my name')
-    elif age == 0:
-        print(f'My name is {name}. I do not want to disclose my age')
-    elif location == 'Indonesia':
-        print(f'My
+# greetings('Iki', 23, 'Bandung')
+# greetings(age=20, location='Bandung')
+# greetings('Aga')
+# greetings('Arya', 19)
+
+# =================================================================
+'''
+Global Variables
+-A variable defined outside a function.
+-Its value is valid as long as the program runs.
+-Can be accessed both inside and outside of functions.
+'''
+
+# case a
+# x = 100  # This is a global variable
+
+# def get_result():
+#     print(x)  # Accessing global variable
+#     a = 200   # Local variable
+#     return a + 5
+
+# get_result()
+# print(get_result())  # Prints result using both global and local variables
+# print(type(get_result()))
+# print(a)  # Error: 'a' is local and cannot be accessed outside the function
+
+# case b
+# x = 100  # Global variable
+
+# def get_result():
+#     a = x + 20  # Using global x, 'a' is local
+#     return a
+
+# print('case b', get_result())
+
+# case c
+# x = 100  # Global variable
+
+# def get_result():
+#     a = x + 20       # x is used before it’s redefined locally → causes an error
+#     x = 10           # Local x is defined here
+#     return a
+
+# # print(get_result())  # Error: local x is referenced before assignment
+
+# Case d
+# x = 100  # Global variable
+
+# def get_result():
+#     a = x + 20       # x is used before it’s redefined locally → causes an error
+#     x = 10           # Local x is defined here
+#     return a
+
+# # print(get_result())  # Error: local x is referenced before assignment
+
+# Case e
+# x = 100  # Global variable
+
+# def get_result():
+#     x = 20
+#     x = x + 20     # Local x
+#     return x
+
+# print(get_result())     
+# print(x)  # Still prints 100 (global x is unchanged)
+
+# ====================================
+# Alternative (using global keyword)
+# x = 100  # Global variable
+
+# def get_result():
+#     global x      # Use the global x
+#     x = x + 20    # Modify the global x
+#     return x
+
+# print(get_result())  # Result is 120
+# print(x)             # Now x = 120
+
+# ====================================
+# Callback Function
+# A function that takes another function as an argument
+# def calculator(operator, num1, num2):
+#     result = operator(num1, num2)
+#     return result
+
+# def add(num1, num2):
+#     return num1 + num2
+
+# def subtract(num1, num2):
+#     return num1 - num2
+
+# def multiply(num1, num2):
+#     return num1 * num2
+
+# def divide(num1, num2):
+#     return num1 / num2
+
+# print(calculator(add, 2, 5))
+# print(calculator(multiply, 4, 6))
+
+# =====================================
+# Calling Other Functions (Call Stack)
+# A function that uses another function inside it.
+
+# def area(length, width):
+#     return length * width
+
+# def volume(length, width, height):
+#     return area(length, width) * height
+
+# print(area(2, 5))
+# print(volume(2, 5, 4))
+
+# def display(answer):
+#     print(f'The answer is {answer}')
+
+# def print_volume(length, width, height):
+#     answer = area(length, width) * height
+#     display(answer)
+
+# print_volume(2, 4, 5)
+
+
+
