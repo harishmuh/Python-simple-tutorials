@@ -66,7 +66,8 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
 
 ### 🔣 Functions  
 - 🔧 **Functions in Python**
-  - Functions concept and case example (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Functions_in_Python_concept%20and%20example%20case.ipynb) 
+  - Function concept and case example (English) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Functions_in_Python_concept%20and%20example%20case.ipynb)
+  - Function concept (supplementary materials) → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Function%20supplementary%20materials.ipynb)
   - Functions in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_engsub.py)
   - Konsep fungsi (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_bahasa.py)   
   - Fungsi Lambda (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
