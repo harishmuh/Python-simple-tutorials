@@ -71,7 +71,9 @@ Welcome to this **FREE Python tutorial repository** designed for beginners! Whet
   - Functions in Python (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_engsub.py)
   - Konsep fungsi (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/function_bahasa.py)   
   - Fungsi Lambda (Bahasa Indonesia) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_bahasa.py)  
-  - Lambda Functions (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)  
+  - Lambda Functions (English) → [Open file.py](https://github.com/harishmuh/Python-simple-tutorials/blob/main/lambda%20function_engsub.py)
+- 🏋️‍♂️ **Exercises** 
+  - Function exercises → [Open notebook](https://github.com/harishmuh/Python-simple-tutorials/blob/main/Function_exercises.ipynb) 
 
 ---
 
